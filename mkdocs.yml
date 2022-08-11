@@ -1,4 +1,4 @@
-site_name: Express User Documentation
+site_name: Sam User Docs
 nav:
   - Home: "index.md"
   - Project Structure: "pages/project-structure.md"
@@ -10,9 +10,9 @@ nav:
   - Glossary: "pages/glossary.md"
 
 
-repo_url: https://github.com/megankuo/Express-User-Documentation
+repo_url: https://github.io/SamLee77/Sam-Test
 
-repo_name: megankuo/Express-User-Documentation
+repo_name: SamLee77/Sam-Test
 
 
 markdown_extensions:
